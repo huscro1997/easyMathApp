@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "gato escuro | Papeis de parede simples, Papel de parede vaporwave, Wallpaper de desenhos animados.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
